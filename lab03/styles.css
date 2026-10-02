@@ -1,0 +1,11 @@
+body { background: rgb(185, 171, 223) ;color: green; }
+
+h2 { color: green ; }
+h3 { color: red ; }
+p { font-style: italic ; }
+a { color: rgb(2, 65, 56) ; }
+
+#lab-title { color: brown ; }
+
+.important { color: blue ; }
+
