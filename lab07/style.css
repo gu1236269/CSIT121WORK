@@ -1,0 +1,131 @@
+
+/* My CSS for Lab 07 */
+
+body {
+    background-color: lightblue;
+    font-family: "Times New Roman", serif;
+    color: black;
+    margin: 15px;
+}
+
+header {
+    background-color: lightyellow;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+header h1 {
+    color: darkblue;
+}
+
+nav {
+    background-color: lightgray;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+nav a {
+    color: blue;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    color: red;
+}
+
+main {
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid black;
+}
+
+h2 {
+    color: darkred;
+}
+
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+.s-tier {
+    background-color: lightpink;
+}
+
+.a-tier {
+    background-color: lightyellow;
+}
+
+.b-tier {
+    background-color: lightgreen;
+}
+
+.c-tier {
+    background-color: lightcyan;
+}
+
+.d-tier {
+    background-color: lightgray;
+}
+
+td img {
+    width: 80px;
+    height: 65px;
+}
+
+section {
+    background-color: lightyellow;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+fieldset {
+    margin-bottom: 15px;
+    border: 1px solid black;
+}
+
+legend {
+    color: darkred;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input, select, textarea {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: lightgray;
+    color: black;
+    padding: 5px 12px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+    border: 1px solid black;
+}
