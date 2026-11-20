@@ -1,0 +1,104 @@
+    
+header {
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #6F4E37;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  text-shadow: 1px 1px 3px black;
+    
+    
+}    
+
+body {
+    background-image: url('images/coffee-beans.jpg');
+    background-size: cover;
+}
+
+h2,
+h3 {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #6F4E37;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: left;
+  text-shadow: 1px 1px 3px black;
+  
+}
+
+p { 
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #6F4E37;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  text-shadow: 1px 1px 3px black;
+}
+
+.topnav {
+  background-color: #6F4E37;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+.lesson {
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #6F4E37;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  text-shadow: 1px 1px 3px black;
+}
